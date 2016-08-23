@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\AndroidStudioWorkspace\\MyCSDN\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "G:\\AndroidStudioWorkspace\\MyCSDN\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkspace\\MyCSDN\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "G:\\AndroidStudioWorkspace\\MyCSDN\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioWorkspace\\MyCSDN\\pulltorefreshlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "G:\\AndroidStudioWorkspace\\MyCSDN\\pulltorefreshlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    }
+]

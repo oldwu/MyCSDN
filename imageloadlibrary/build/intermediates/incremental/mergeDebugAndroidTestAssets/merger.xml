@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="G:\AndroidStudioWorkspace\MyCSDN\imageloadlibrary\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="G:\AndroidStudioWorkspace\MyCSDN\imageloadlibrary\src\androidTest\assets"/><source path="G:\AndroidStudioWorkspace\MyCSDN\imageloadlibrary\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>
